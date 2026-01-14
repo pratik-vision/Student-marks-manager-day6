@@ -1,1 +1,5 @@
-STUDENT MARKS MANAGER
+----[LIST AND TUPLES]----
+            |
+            |
+            |
+  {STUDENT MARKS MANAGER}
